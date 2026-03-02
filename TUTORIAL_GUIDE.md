@@ -6,19 +6,19 @@ This repository contains a GitHub Skills interactive tutorial designed to teach 
 
 ## Current Status
 
-The tutorial has been initialized and is ready for you to complete! You can track your progress in [Issue #2](https://github.com/Pioneer9000/00-skills-introduction-to-github/issues/2).
+The tutorial has been initialized and is ready for you to complete! You can track your progress in the Exercise issue (typically Issue #2) in your repository's Issues tab.
 
 ## How to Complete the Tutorial
 
 ### Step 1: Create a Branch
 
-1. Navigate to your repository at: https://github.com/Pioneer9000/00-skills-introduction-to-github
+1. Navigate to your repository (the one you copied from the GitHub Skills template)
 2. Click on the **Code** tab (if not already there)
 3. Click on the branch dropdown that says "main"
 4. In the search box, type: `my-first-branch`
 5. Click "Create branch: my-first-branch from main"
 
-Once you create the branch, the GitHub Actions workflow will automatically detect it and post the next step in Issue #2.
+Once you create the branch, the GitHub Actions workflow will automatically detect it and post the next step in the Exercise issue (check your repository's Issues tab).
 
 ### Step 2: Commit a File
 
